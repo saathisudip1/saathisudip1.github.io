@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 # Data Scientist
-<!-- # Sudip Adhikari <br> Data Scientist <br> <sup> [email](saathisudip@gmail.com) || +1 990 000 0000 || City, State <sup> <br> <sup>[Linkedin](https://www.linkedin.com/in/sudipadhikari1/)<sup> -->
+# Sudip Adhikari <br> Data Scientist <br> <sup> [Email](saathisudip@gmail.com) || [Linkedin](https://www.linkedin.com/in/sudipadhikari1/) || +1 330 524 1443 || Charlotte, NC <br> 
 ## Professional Summary
 A proficient data scientist with expertise in analyzing complex datasets using advanced statistical methods and machine learning algorithms. Proficient in programming languages like Python, R, and SQL, adept at data preprocessing, modeling, and visualization. Skilled in leveraging predictive modeling, clustering, and classification techniques to derive actionable insights, optimizing business strategies, and enhancing decision-making processes. Experienced in handling large-scale data sets and implementing data-driven solutions for diverse industry challenges. Strong communication skills enable effective collaboration with cross-functional teams to interpret findings and present compelling data-driven narratives. Committed to continuous learning, staying updated with the latest advancements in data science and technology.
-[Link to another page](./another-page.html).
+<!--- [Link to another page](./another-page.html).--->
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
