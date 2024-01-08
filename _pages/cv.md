@@ -61,7 +61,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - Weeks of Welcome Poster Competition - UTD, Fall 2019
 - A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+- [Data Science YouTube](https://www.youtube.com/channel/AAA)
 
 ## Publications
 1. ABC S., DEF D.J., GH L. OH., and EE, T. Downlading The Best DATA Science (2019). DOI: 15.20258.457.ADD.5689.$%
