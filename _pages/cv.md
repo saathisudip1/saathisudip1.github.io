@@ -8,7 +8,30 @@ redirect_from:
 ---
 
 {% include base_path %}
+# Data Scientist
+<!-- # Sudip Adhikari <br> Data Scientist <br> <sup> [email](saathisudip@gmail.com) || +1 990 000 0000 || City, State <sup> <br> <sup>[Linkedin](https://www.linkedin.com/in/sudipadhikari1/)<sup> -->
+## Professional Summary
+A proficient data scientist with expertise in analyzing complex datasets using advanced statistical methods and machine learning algorithms. Proficient in programming languages like Python, R, and SQL, adept at data preprocessing, modeling, and visualization. Skilled in leveraging predictive modeling, clustering, and classification techniques to derive actionable insights, optimizing business strategies, and enhancing decision-making processes. Experienced in handling large-scale data sets and implementing data-driven solutions for diverse industry challenges. Strong communication skills enable effective collaboration with cross-functional teams to interpret findings and present compelling data-driven narratives. Committed to continuous learning, staying updated with the latest advancements in data science and technology.
+[Link to another page](./another-page.html).
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
+## Education
+- Ph.D., Mechanical Engineering | The University of Akron (_May 2018_)								       		
+- M.S., Mechanical Engineering | The University of Akron (_May 2018_)	 			        		
+- B.S., Mechanical Engineering | Tribhuvan University (_May 2011_)
+
+## Work Experience
+**Data Scientist @ Toyotaka  Marketing and Financial Services (_June 2029 - Present_)**
+- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
+- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Analyzing financial data to develop models that assess and mitigate risk. This involves creating predictive models to identify potential risks in investments, loans, or financial products
+- Developing algorithms and models to detect fraudulent activities within financial transactions. This includes monitoring patterns, anomalies, and trends in data to prevent potential fraud
+
+**Data Science Consultant @ Discovery Channel Ventures LLC (_December 2020 - Present_)**
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Using data science techniques to predict market trends, stock prices, or asset performance. This involves leveraging historical data and market indicators to inform investment strategies.
+- Utilizing data analysis to segment customers based on their financial behavior, preferences, and risk profiles. This helps in personalized marketing, product recommendations, and enhancing customer experiences.
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
