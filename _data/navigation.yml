@@ -8,7 +8,7 @@ main:
     
   - title: "Work With Me"
     url: /workwithme/
-<!---
+  <!---
   - title: "Publications"
     url: /publications/
 
@@ -17,4 +17,4 @@ main:
 
   - title: "Teaching"
     url: /teaching/   
---->
+  --->
