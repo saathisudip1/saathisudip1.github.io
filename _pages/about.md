@@ -9,14 +9,12 @@ redirect_from:
 ---
 
 Hi there! I am Sudip Adhikari, a warm welcome to my page!!
-
 As a passionate and results-driven Machine Learning Engineer, I leverage cutting-edge algorithms and data-driven insights to solve complex problems and drive innovation. With a strong foundation in mathematics, statistics, and programming, I specialize in developing robust machine learning models and deploying them to create impactful solutions.
-
-#seasoned Data Scientist passionate about transforming raw data into actionable insights. With a solid foundation in machine learning, statistical analysis, and programming (Python, R, SQL), I thrive on solving complex #problems through data-driven strategie. Please check my [Github](https://github.com/saathisudip1).
-
+I received my PhD degree in Mechanical Engineering with a concentration in In-Situ Adaptive Tabulation (ISAT) and Physics-Informed Neural Networks (PINN) for acceleration of numerical simulations.
+I have been working in the field of Artificial Intelligence and Machine Learning for the past 7 years with multidisciplinary projects ranging from academic research to corporate projects.
+<!---#seasoned Data Scientist passionate about transforming raw data into actionable insights. With a solid foundation in machine learning, statistical analysis, and programming (Python, R, SQL), I thrive on solving complex #problems through data-driven strategie. Please check my [Github](https://github.com/saathisudip1).
 My journey includes [X years] of hands-on experience in [specific industries or projects], where I've leveraged advanced analytics to [specific achievements or impact]. Proficient in data visualization tools (Tableau, matplotlib), I excel in communicating findings to diverse audiences, empowering informed decisions.
-
-Eager to tackle new challenges and contribute expertise in optimizing processes, predicting trends, and unlocking opportunities, I'm enthusiastic about exploring collaborations in the dynamic field of data science. Let's connect and explore how I can add value to your team!"
+Eager to tackle new challenges and contribute expertise in optimizing processes, predicting trends, and unlocking opportunities, I'm enthusiastic about exploring collaborations in the dynamic field of data science. Let's connect and explore how I can add value to your team!"--->
 
 My Expertise:
 ======
@@ -36,7 +34,19 @@ Why Work With Me:
 * Passion for Learning: Committed to staying updated with the latest advancements in machine learning and AI technologies.
 * Great ability to work on multiple projects independently or as a member of the project team.
 
-A data-driven personal website
+Projects Showcase:
+======
+Please check my portfolio. Might need to add link to portfolio
+* [Project 1: Brief description and link]
+* [Project 2: Brief description and link]
+* [Project 3: Brief description and link]
+
+Let's Connect:
+======
+I'm excited about the possibilities that machine learning offers and am always open to discussing new opportunities, collaborations, or innovative projects. Feel free to reach out via [contact information] to explore how we can work together to drive technological advancement through machine learning.
+ 
+
+<!---A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -69,7 +79,7 @@ How to edit your site's GitHub repository
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/editing-talk.png)--->
 
 For more info
 ------
