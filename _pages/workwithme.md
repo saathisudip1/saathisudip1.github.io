@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Work With Me"
+title: " " 
 permalink: /workwithme/
-author_profile: false
+author_profile: true
 redirect_from:
   - /resume
 ---
