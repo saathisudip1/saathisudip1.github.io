@@ -27,7 +27,7 @@ My Expertise:
 
 Let's Connect:
 ======
-I'm excited about the possibilities that machine learning offers and am always open to discussing new opportunities, collaborations, or innovative projects. Feel free to reach out via [contact information] to explore how we can work together to drive technological advancement through machine learning.
+I'm excited about the possibilities that machine learning offers and am always open to discussing new opportunities, collaborations, or innovative projects. Feel free to reach out via [email](saathisudip@gmail.com) to explore how we can work together to drive technological advancement through machine learning.
  
 
 <!---A data-driven personal website
