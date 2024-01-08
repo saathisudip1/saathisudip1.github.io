@@ -9,51 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Why Work With Me:
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Customer oriented – Understand and satisfy customer/business needs.
+* Problem solver– Proficient in building machine learning models and apply to solve problems.
+* Result oriented – Focused on delivering solutions to meet customer/projects/business needs.
+* Innovative Problem-Solver: I thrive on tackling challenging problems and transforming concepts into practical, scalable solutions.
+* Collaborative Team Player: I enjoy collaborating with multidisciplinary teams to achieve project goals and foster a culture of continuous learning.
+* Passion for Learning: Committed to staying updated with the latest advancements in machine learning and AI technologies.
+* Great ability to work on multiple projects independently or as a member of the project team.
 
-Work experience
+Projects Showcase:
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Please check my portfolio. Might need to add link to portfolio
+* [Project 1: Brief description and link]
+* [Project 2: Brief description and link]
+* [Project 3: Brief description and link]
